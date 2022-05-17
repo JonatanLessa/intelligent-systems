@@ -1,0 +1,109 @@
+Porto Velho,Rio Branco
+Porto Velho,Manaus
+Porto Velho,Cuiabá
+Porto Velho,Belém
+Manaus,Boa Vista
+Manaus,Porto Velho
+Rio Branco,Manaus
+Campo Grande,Cuiabá
+Campo Grande,Goiânia
+Campo Grande,São Paulo
+Campo Grande,Curitiba
+Campo Grande,Porto Alegre
+Campo Grande,Belo Horizonte
+Brasília,Goiânia
+Brasília,Salvador
+Brasília,Belo Horizonte
+Brasília,Palmas
+Boa Vista,Manaus
+Cuiabá,Campo Grande
+Cuiabá,Porto Velho
+Cuiabá,Goiânia
+Cuiabá,Palmas
+Palmas,Belém
+Palmas,Goiânia
+Palmas,Salvador
+Palmas,São Luís
+Palmas,Fortaleza
+Palmas,João Pessoa
+Palmas,Natal
+Palmas,Cuiabá
+Palmas,Brasília
+São Paulo,Rio de Janeiro
+São Paulo,Curitiba
+São Paulo,Campo Grande
+São Paulo,Belo Horizonte
+São Paulo,Goiânia
+Teresina,Salvador
+Teresina,Fortaleza
+Teresina,Belém
+Teresina,São Luís
+Teresina,Maceió
+Teresina,Recife
+Teresina,Aracaju
+Teresina,Natal
+Rio de Janeiro,São Paulo
+Rio de Janeiro,Vitória
+Rio de Janeiro,Belo Horizonte
+Rio de Janeiro,Salvador
+Belém,São Luís
+Belém,Palmas
+Belém,Teresina
+Goiânia,Brasília
+Goiânia,Belo Horizonte
+Goiânia,Cuiabá
+Goiânia,Campo Grande
+Goiânia,São Paulo
+Goiânia,Salvador
+Goiânia,Palmas
+Salvador,Rio de Janeiro
+Salvador,Aracaju
+Salvador,Palmas
+Salvador,Belo Horizonte
+Salvador,Brasília
+Salvador,Teresina
+Salvador,Fortaleza
+Salvador,Vitória
+Salvador,Goiânia
+Florianópolis,Porto Alegre
+Florianópolis,Curitiba
+São Luís,Fortaleza
+São Luís,Belém
+São Luís,Teresina
+São Luís,Palmas
+Maceió,Recife
+Maceió,Aracaju
+Maceió,Teresina
+Porto Alegre,Campo Grande
+Porto Alegre,Florianópolis
+Curitiba,Florianópolis
+Curitiba,São Paulo
+Curitiba,Campo Grande
+Belo Horizonte,São Paulo
+Belo Horizonte,Campo Grande
+Belo Horizonte,Goiânia
+Belo Horizonte,Brasília
+Belo Horizonte,Vitória
+Belo Horizonte,Rio de Janeiro
+Belo Horizonte,Salvador
+Fortaleza,Natal
+Fortaleza,Teresina
+Fortaleza,São Luís
+Fortaleza,Palmas
+Fortaleza,Salvador
+Recife,Maceió
+Recife,João Pessoa
+Recife,Teresina
+João Pessoa,Recife
+João Pessoa,Natal
+João Pessoa,Palmas
+Aracaju,Salvador
+Aracaju,Maceió
+Aracaju,Teresina
+Natal,João Pessoa
+Natal,Fortaleza
+Natal,Teresina
+Natal,Palmas
+Vitória,Rio de Janeiro
+Vitória,Belo Horizonte
+Vitória,Salvador
