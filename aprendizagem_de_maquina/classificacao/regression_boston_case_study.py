@@ -38,17 +38,18 @@ boston.nunique()
 # we are defining our own function for the same
 
 def PlotBarCharts(inpData, colsToPlot):
-    %matplotlib inline
+    #%matplotlib inline
     
     import matplotlib.pyplot as plt
     
     # Generating multiple subplots
     fig, subPlot=plt.subplots(nrows=1, ncols=len(colsToPlot), figsize=(20,5))
     fig.suptitle('Bar charts of: '+ str(colsToPlot))
+    
 
     for colName, plotNumber in zip(colsToPlot, range(len(colsToPlot))):
         inpData.groupby(colName).size().plot(kind='bar',ax=subPlot[plotNumber])
-
+    plt.show()
 # Calling the function
 PlotBarCharts(inpData=boston, colsToPlot=['CHAS','RAD'])
 
